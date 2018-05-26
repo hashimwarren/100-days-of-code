@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 6: 5/26/2018
+
+
+**Today's Progress**: Created my first Wordpress loop. Examined Wordpress plugin I admire
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
+
+
 ### Day 5: 5/25/2018
 
 
