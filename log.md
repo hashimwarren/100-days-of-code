@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 2: 5/22/2018
+### Day 5: 5/25/2018
+
+
+**Today's Progress**: Created a while loop in php
+
+**Thoughts:** n/a
+
+**Link to work:** n/a
+
+
+
+### Day 3: 5/22/2018
 
 
 **Today's Progress**: Learned how the Wordpress loop works, downloaded a plugin and tried to figure out how it works
